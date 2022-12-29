@@ -1,0 +1,26 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.enable": false,
+  "eslint.probe": ["scss", "sass"],
+  "eslint.trace.server": "verbose",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "i18n-ally.localesPaths": ["src/locales/lang"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.sortKeys": false,
+  "i18n-ally.namespace": true,
+  "i18n-ally.pathMatcher": "{locale}/{namespaces}.{ext}",
+  "i18n-ally.enabledParsers": ["ts", "json"],
+  "i18n-ally.sourceLanguage": "en",
+  "i18n-ally.displayLanguage": "zh-CN",
+  "i18n-ally.enabledFrameworks": ["vue"],
+  "commentTranslate.hover.enabled": true,
+  "commentTranslate.multiLineMerge": true
+}
