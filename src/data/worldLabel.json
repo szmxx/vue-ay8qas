@@ -1,0 +1,1490 @@
+[
+  {
+    "NAME_CHN": "委内瑞拉",
+    "NAME_ENG": "Venezuela",
+    "center": [-66.58973, 6.42375],
+    "code": "VEN"
+  },
+  {
+    "NAME_CHN": "圭亚那",
+    "NAME_ENG": "Guyana",
+    "center": [-58.93018, 4.860416],
+    "code": "GUY"
+  },
+  {
+    "NAME_CHN": "厄瓜多尔",
+    "NAME_ENG": "Ecuador",
+    "center": [-78.18340599999999, -1.831239],
+    "code": "ECU"
+  },
+  {
+    "NAME_CHN": "玻利维亚",
+    "NAME_ENG": "Bolivia",
+    "center": [-63.58865299999999, -16.290154],
+    "code": "BOL"
+  },
+  {
+    "NAME_CHN": "秘鲁",
+    "NAME_ENG": "Peru",
+    "center": [-75.015152, -9.189967],
+    "code": "PER"
+  },
+  {
+    "NAME_CHN": "巴拉圭",
+    "NAME_ENG": "Paraguay",
+    "center": [-58.443832, -23.442503],
+    "code": "PRY"
+  },
+  {
+    "NAME_CHN": "阿根廷",
+    "NAME_ENG": "Argentina",
+    "center": [-63.61667199999999, -38.416097],
+    "code": "ARG"
+  },
+  {
+    "NAME_CHN": "福克兰群岛（马尔维纳斯）",
+    "NAME_ENG": "Falkland Islands",
+    "center": [-59.43161992671398, -51.79568310924129],
+    "code": "FLK"
+  },
+  {
+    "NAME_CHN": "巴西",
+    "NAME_ENG": "Brazil",
+    "center": [-51.92528, -14.235004],
+    "code": "BRA"
+  },
+  {
+    "NAME_CHN": "智利",
+    "NAME_ENG": "Chile",
+    "center": [-71.542969, -35.675147],
+    "code": "CHL"
+  },
+  {
+    "NAME_CHN": "马绍尔群岛",
+    "NAME_ENG": "Marshall Islands",
+    "center": [171.37828366714388, 7.09905252336884],
+    "code": "MHL"
+  },
+  {
+    "NAME_CHN": "美国",
+    "NAME_ENG": "United States",
+    "center": [-95.712891, 37.09024],
+    "code": "USA"
+  },
+  {
+    "NAME_CHN": "瑙鲁",
+    "NAME_ENG": "Nauru",
+    "center": [166.931119, -0.531241],
+    "code": "NRU"
+  },
+  {
+    "NAME_CHN": "所罗门群岛",
+    "NAME_ENG": "Solomon Islands",
+    "center": [160.156194, -9.64571],
+    "code": "SLB"
+  },
+  {
+    "NAME_CHN": "库克群岛",
+    "NAME_ENG": "Cook Islands",
+    "center": [-159.742729, -20.881743],
+    "code": "COK"
+  },
+  {
+    "NAME_CHN": "美属萨摩亚",
+    "NAME_ENG": "American Samoa",
+    "center": [-170.43, -14.16],
+    "code": "ASM"
+  },
+  {
+    "NAME_CHN": "瓦努阿图",
+    "NAME_ENG": "Vanuatu",
+    "center": [166.959158, -15.376706],
+    "code": "VUT"
+  },
+  {
+    "NAME_CHN": "斐济",
+    "NAME_ENG": "Fiji",
+    "center": [178.3, -18.06],
+    "code": "FJI"
+  },
+  {
+    "NAME_CHN": "汤加",
+    "NAME_ENG": "Tonga",
+    "center": [-175.20909252440447, -21.17675427920163],
+    "code": "TON"
+  },
+  {
+    "NAME_CHN": "纽埃",
+    "NAME_ENG": "Niue",
+    "center": [-169.85431, -19.070956],
+    "code": "NIU"
+  },
+  {
+    "NAME_CHN": "皮特凯恩",
+    "NAME_ENG": "Pitcairn",
+    "center": [-130.10142908366942, -25.046912905168767],
+    "code": "PCN"
+  },
+  {
+    "NAME_CHN": "诺福克岛",
+    "NAME_ENG": "Norfolk Island",
+    "code": "NFK",
+    "center": [167.9494838332413, -29.03714864205947]
+  },
+  {
+    "NAME_CHN": "赫德岛和麦克唐纳岛",
+    "NAME_ENG": "Heard Island and McDonald Islands",
+    "center": [73.513881, -53.09132],
+    "code": "HMD"
+  },
+  {
+    "NAME_CHN": "布维岛",
+    "NAME_ENG": "Bouvet Island",
+    "center": [3.347736, -54.419212],
+    "code": "BVT"
+  },
+  {
+    "NAME_CHN": "北马里亚纳",
+    "NAME_ENG": "Northern Mariana Islands",
+    "center": [145.45, 15.12],
+    "code": "MNP"
+  },
+  {
+    "NAME_CHN": "南乔治亚岛和南桑德韦奇岛",
+    "NAME_ENG": "South Georgia and the South Sandwich Islands",
+    "center": [-36.60034, -54.388568],
+    "code": "SGS"
+  },
+  {
+    "NAME_CHN": "图瓦卢",
+    "NAME_ENG": "Tuvalu",
+    "center": [179.13, -8.31],
+    "code": "TUV"
+  },
+  {
+    "NAME_CHN": "托克劳",
+    "NAME_ENG": "Tokelau",
+    "center": [-171.822775, -9.180904],
+    "code": "TKL"
+  },
+  {
+    "NAME_CHN": "萨摩亚",
+    "NAME_ENG": "Samoa",
+    "center": [-171.5, -13.5],
+    "code": "WSM"
+  },
+  {
+    "NAME_CHN": "密克罗尼西亚联邦",
+    "NAME_ENG": "Micronesia",
+    "center": [158.09, 6.55],
+    "code": "FSM"
+  },
+  {
+    "NAME_CHN": "瓦利斯和富图纳",
+    "NAME_ENG": "Wallis and Futuna",
+    "center": [-178.124231, -14.32275],
+    "code": "WLF"
+  },
+  {
+    "NAME_CHN": "科科斯（基林）群岛",
+    "NAME_ENG": "Cocos Islands",
+    "center": [96.844959, -12.169633],
+    "code": "CCK"
+  },
+  {
+    "NAME_CHN": "爱德华王子岛",
+    "NAME_ENG": "PRINCE EDWARD ISLAND",
+    "center": [-78.452, 44],
+    "code": "SF"
+  },
+  {
+    "NAME_CHN": "巴布亚新几内亚",
+    "NAME_ENG": "Papua New Guinea",
+    "center": [143.95555, -6.314992999999999],
+    "code": "PNG"
+  },
+  {
+    "NAME_CHN": "法属南部领地",
+    "NAME_ENG": "French Southern Territories",
+    "center": [69.413273, -49.205663],
+    "code": "ATF"
+  },
+  {
+    "NAME_CHN": "法属波利尼西亚",
+    "NAME_ENG": "French Polynesia",
+    "center": [-149.34, -17.32],
+    "code": "PYF"
+  },
+  {
+    "NAME_CHN": "新西兰",
+    "NAME_ENG": "New Zealand",
+    "center": [174.885971, -40.900557],
+    "code": "NZL"
+  },
+  {
+    "NAME_CHN": "澳大利亚",
+    "NAME_ENG": "Australia",
+    "center": [133.775136, -25.274398],
+    "code": "AUS"
+  },
+  {
+    "NAME_CHN": "新喀里多尼亚",
+    "NAME_ENG": "New Caledonia",
+    "center": [165.618042, -20.904305],
+    "code": "NCL"
+  },
+  {
+    "NAME_CHN": "基里巴斯",
+    "NAME_ENG": "Kiribati",
+    "center": [-157.32788394919095, 1.8727066925101354],
+    "code": "KIR"
+  },
+  {
+    "NAME_CHN": "帕劳",
+    "NAME_ENG": "Palau",
+    "center": [126.66928, 4.285494],
+    "code": "PLW"
+  },
+  {
+    "NAME_CHN": "格陵兰",
+    "NAME_ENG": "Greenland",
+    "code": "GRL",
+    "center": [-41.139112060540356, 74.75392807617081]
+  },
+  {
+    "NAME_CHN": "圣皮埃尔和密克隆",
+    "NAME_ENG": "Saint Pierre and Miquelon",
+    "center": [-56.306482, 46.953021],
+    "code": "SPM"
+  },
+  {
+    "NAME_CHN": "百慕大",
+    "NAME_ENG": "Bermuda",
+    "center": [-64.7505, 32.3078],
+    "code": "BMU"
+  },
+  {
+    "NAME_CHN": "巴哈马",
+    "NAME_ENG": "Bahamas",
+    "center": [-77.39627999999999, 25.03428],
+    "code": "BHS"
+  },
+  {
+    "NAME_CHN": "特克斯和凯科斯群岛",
+    "NAME_ENG": "Turks and Caicos Islands",
+    "center": [-71.748935, 21.808369],
+    "code": "TCA"
+  },
+  {
+    "NAME_CHN": "开曼群岛",
+    "NAME_ENG": "Cayman Islands",
+    "center": [-81.24, 19.2],
+    "code": "CYM"
+  },
+  {
+    "NAME_CHN": "海地",
+    "NAME_ENG": "Haiti",
+    "center": [-72.285215, 18.971187],
+    "code": "HTI"
+  },
+  {
+    "NAME_CHN": "多米尼加",
+    "NAME_ENG": "Dominican Republic",
+    "center": [-70.10781976945631, 18.6062039689386],
+    "code": "DOM"
+  },
+  {
+    "NAME_CHN": "安圭拉",
+    "NAME_ENG": "Anguilla",
+    "center": [-63.051843, 18.228802],
+    "code": "AIA"
+  },
+  {
+    "NAME_CHN": "牙买加",
+    "NAME_ENG": "Jamaica",
+    "center": [-77.297508, 18.109581],
+    "code": "JAM"
+  },
+  {
+    "NAME_CHN": "圣基茨和尼维斯",
+    "NAME_ENG": "Saint Kitts and Nevis",
+    "center": [-62.43, 17.17],
+    "code": "KNA"
+  },
+  {
+    "NAME_CHN": "安提瓜和巴布达",
+    "NAME_ENG": "Antigua and Barbuda",
+    "center": [-61.787041, 17.633014],
+    "code": "ATG"
+  },
+  {
+    "NAME_CHN": "蒙特塞拉特",
+    "NAME_ENG": "Montserrat",
+    "center": [-62.195694, 16.744909],
+    "code": "MSR"
+  },
+  {
+    "NAME_CHN": "伯利兹",
+    "NAME_ENG": "Belize",
+    "center": [-88.49765, 17.189877],
+    "code": "BLZ"
+  },
+  {
+    "NAME_CHN": "瓜德罗普",
+    "NAME_ENG": "Guadeloupe",
+    "center": [-61.533041, 16.23517],
+    "code": "GLP"
+  },
+  {
+    "NAME_CHN": "危地马拉",
+    "NAME_ENG": "Guatemala",
+    "center": [-90.23075899999999, 15.783471],
+    "code": "GTM"
+  },
+  {
+    "NAME_CHN": "多米尼克",
+    "NAME_ENG": "Dominica",
+    "center": [61.23, 15.18],
+    "code": "DMA"
+  },
+  {
+    "NAME_CHN": "马提尼克",
+    "NAME_ENG": "Martinique",
+    "center": [-61.015667, 14.658232],
+    "code": "MTQ"
+  },
+  {
+    "NAME_CHN": "圣卢西亚",
+    "NAME_ENG": "Saint Lucia",
+    "center": [-60.58, 14.02],
+    "code": "LCA"
+  },
+  {
+    "NAME_CHN": "萨尔瓦多",
+    "NAME_ENG": "El Salvador",
+    "center": [-88.89653, 13.794185],
+    "code": "SLV"
+  },
+  {
+    "NAME_CHN": "洪都拉斯",
+    "NAME_ENG": "Honduras",
+    "center": [-86.241905, 15.199999],
+    "code": "HND"
+  },
+  {
+    "NAME_CHN": "巴巴多斯",
+    "NAME_ENG": "Barbados",
+    "center": [-59.540064, 13.180145],
+    "code": "BRB"
+  },
+  {
+    "NAME_CHN": "圣文森特和格林纳丁斯",
+    "NAME_ENG": "Saint Vincent and the Grenadines",
+    "center": [-61.1, 13.1],
+    "code": "VCT"
+  },
+  {
+    "NAME_CHN": "阿鲁巴",
+    "NAME_ENG": "Aruba",
+    "center": [-70.02, 12.32],
+    "code": "ABW"
+  },
+  {
+    "NAME_CHN": "哥伦比亚",
+    "NAME_ENG": "Colombia",
+    "center": [-74.297333, 4.570868],
+    "code": "COL"
+  },
+  {
+    "NAME_CHN": "格林纳达",
+    "NAME_ENG": "Grenada",
+    "center": [-61.679059, 12.133773],
+    "code": "GRD"
+  },
+  {
+    "NAME_CHN": "特立尼达和多巴哥",
+    "NAME_ENG": "Trinidad and Tobago",
+    "center": [-61.196506, 10.394876],
+    "code": "TTO"
+  },
+  {
+    "NAME_CHN": "哥斯达黎加",
+    "NAME_ENG": "Costa Rica",
+    "center": [-83.753428, 9.748916999999999],
+    "code": "CRI"
+  },
+  {
+    "NAME_CHN": "法国",
+    "NAME_ENG": "France",
+    "center": [-110.98341966855276, 18.81129657181991],
+    "code": "FRA"
+  },
+  {
+    "NAME_CHN": "英属维尔京群岛",
+    "NAME_ENG": "British Virgin Islands",
+    "center": [-64.61787, 18.429153],
+    "code": "VGB"
+  },
+  {
+    "NAME_CHN": "美属维尔京群岛",
+    "NAME_ENG": "U.S. Virgin Islands",
+    "center": [-64.773052, 17.738573],
+    "code": "VIR"
+  },
+  {
+    "NAME_CHN": "波多黎各",
+    "NAME_ENG": "Puerto Rico",
+    "center": [-66.590149, 18.220833],
+    "code": "PRI"
+  },
+  {
+    "NAME_CHN": "尼加拉瓜",
+    "NAME_ENG": "Nicaragua",
+    "center": [-85.207229, 12.865416],
+    "code": "NIC"
+  },
+  {
+    "NAME_CHN": "墨西哥",
+    "NAME_ENG": "Mexico",
+    "center": [-102.552784, 23.634501],
+    "code": "MEX"
+  },
+  {
+    "NAME_CHN": "古巴",
+    "NAME_ENG": "Cuba",
+    "center": [-77.781167, 21.521757],
+    "code": "CUB"
+  },
+  {
+    "NAME_CHN": "加拿大",
+    "NAME_ENG": "Canada",
+    "center": [-106.346771, 56.130366],
+    "code": "CAN"
+  },
+  {
+    "NAME_CHN": "斯瓦尔巴岛和扬马延岛",
+    "NAME_ENG": "Svalbard and Jan Mayen",
+    "center": [15.32408, 78.602372],
+    "code": "SJM"
+  },
+  {
+    "NAME_CHN": "瑞典",
+    "NAME_ENG": "Sweden",
+    "center": [18.643501, 60.12816100000001],
+    "code": "SWE"
+  },
+  {
+    "NAME_CHN": "冰岛",
+    "NAME_ENG": "Iceland",
+    "center": [-19.020835, 64.963051],
+    "code": "ISL"
+  },
+  {
+    "NAME_CHN": "挪威",
+    "NAME_ENG": "Norway",
+    "center": [8.468945999999999, 60.47202399999999],
+    "code": "NOR"
+  },
+  {
+    "NAME_CHN": "法罗群岛",
+    "NAME_ENG": "Faroe Islands",
+    "center": [-6.56, 62.05],
+    "code": "FRO"
+  },
+  {
+    "NAME_CHN": "芬兰",
+    "NAME_ENG": "Finland",
+    "center": [25.748151, 61.92410999999999],
+    "code": "FIN"
+  },
+  {
+    "NAME_CHN": "英国",
+    "NAME_ENG": "United Kingdom",
+    "center": [-3.435973, 55.378051],
+    "code": "GBR"
+  },
+  {
+    "NAME_CHN": "爱沙尼亚",
+    "NAME_ENG": "Estonia",
+    "center": [25.013607, 58.595272],
+    "code": "EST"
+  },
+  {
+    "NAME_CHN": "拉脱维亚",
+    "NAME_ENG": "Latvia",
+    "center": [24.603189, 56.879635],
+    "code": "LVA"
+  },
+  {
+    "NAME_CHN": "立陶宛",
+    "NAME_ENG": "Lithuania",
+    "center": [23.881275, 55.169438],
+    "code": "LTU"
+  },
+  {
+    "NAME_CHN": "丹麦",
+    "NAME_ENG": "Denmark",
+    "center": [9.501785, 56.26392],
+    "code": "DNK"
+  },
+  {
+    "NAME_CHN": "白俄罗斯",
+    "NAME_ENG": "Belarus",
+    "center": [27.953389, 53.709807],
+    "code": "BLR"
+  },
+  {
+    "NAME_CHN": "德国",
+    "NAME_ENG": "Germany",
+    "center": [10.451526, 51.165691],
+    "code": "DEU"
+  },
+  {
+    "NAME_CHN": "荷兰",
+    "NAME_ENG": "Netherlands",
+    "center": [5.291265999999999, 52.132633],
+    "code": "NLD"
+  },
+  {
+    "NAME_CHN": "波兰",
+    "NAME_ENG": "Poland",
+    "center": [19.145136, 51.919438],
+    "code": "POL"
+  },
+  {
+    "NAME_CHN": "爱尔兰",
+    "NAME_ENG": "Ireland",
+    "center": [-8.24389, 53.41291],
+    "code": "IRL"
+  },
+  {
+    "NAME_CHN": "比利时",
+    "NAME_ENG": "Belgium",
+    "center": [4.469936, 50.503887],
+    "code": "BEL"
+  },
+  {
+    "NAME_CHN": "卢森堡",
+    "NAME_ENG": "Luxembourg",
+    "center": [6.129582999999999, 49.815273],
+    "code": "LUX"
+  },
+  {
+    "NAME_CHN": "捷克",
+    "NAME_ENG": "Czechia",
+    "center": [14.22, 50.05],
+    "code": "CZE"
+  },
+  {
+    "NAME_CHN": "斯洛伐克",
+    "NAME_ENG": "Slovakia",
+    "center": [19.699024, 48.669026],
+    "code": "SVK"
+  },
+  {
+    "NAME_CHN": "摩尔多瓦",
+    "NAME_ENG": "Moldova",
+    "center": [28.369885, 47.411631],
+    "code": "MDA"
+  },
+  {
+    "NAME_CHN": "奥地利",
+    "NAME_ENG": "Austria",
+    "center": [14.550072, 47.516231],
+    "code": "AUT"
+  },
+  {
+    "NAME_CHN": "匈牙利",
+    "NAME_ENG": "Hungary",
+    "center": [19.503304, 47.162494],
+    "code": "HUN"
+  },
+  {
+    "NAME_CHN": "瑞士",
+    "NAME_ENG": "Switzerland",
+    "center": [8.227511999999999, 46.818188],
+    "code": "CHE"
+  },
+  {
+    "NAME_CHN": "列支敦士登",
+    "NAME_ENG": "Liechtenstein",
+    "center": [9.31, 47.08],
+    "code": "LIE"
+  },
+  {
+    "NAME_CHN": "斯洛文尼亚",
+    "NAME_ENG": "Slovenia",
+    "center": [14.995463, 46.151241],
+    "code": "SVN"
+  },
+  {
+    "NAME_CHN": "罗马尼亚",
+    "NAME_ENG": "Romania",
+    "center": [24.96676, 45.943161],
+    "code": "ROU"
+  },
+  {
+    "NAME_CHN": "塞尔维亚",
+    "NAME_ENG": "Serbia",
+    "center": [20.27, 44.49],
+    "code": "SRB"
+  },
+  {
+    "NAME_CHN": "波黑",
+    "NAME_ENG": "Bosnia and Herzegovina",
+    "center": [18.26, 43.52],
+    "code": "BIH"
+  },
+  {
+    "NAME_CHN": "克罗地亚",
+    "NAME_ENG": "Croatia",
+    "center": [15.2, 45.1],
+    "code": "HRV"
+  },
+  {
+    "NAME_CHN": "圣马力诺",
+    "NAME_ENG": "San Marino",
+    "center": [12.3, 43.55],
+    "code": "SMR"
+  },
+  {
+    "NAME_CHN": "摩纳哥",
+    "NAME_ENG": "Monaco",
+    "center": [7.421904, 43.737664],
+    "code": "MCO"
+  },
+  {
+    "NAME_CHN": "意大利",
+    "NAME_ENG": "Italy",
+    "center": [12.56738, 41.87194],
+    "code": "ITA"
+  },
+  {
+    "NAME_CHN": "保加利亚",
+    "NAME_ENG": "Bulgaria",
+    "center": [25.48583, 42.733883],
+    "code": "BGR"
+  },
+  {
+    "NAME_CHN": "安道尔",
+    "NAME_ENG": "Andorra",
+    "center": [1.32, 42.31],
+    "code": "AND"
+  },
+  {
+    "NAME_CHN": "北马其顿",
+    "NAME_ENG": "North Macedonia",
+    "code": "MKD",
+    "center": [21.26, 42.01]
+  },
+  {
+    "NAME_CHN": "塞黑",
+    "NAME_ENG": "Serbia and Montenegro",
+    "center": [19.251107, 42.890781],
+    "code": "SCG"
+  },
+  {
+    "NAME_CHN": "黑山",
+    "NAME_ENG": "Montenegro",
+    "center": [19.25121472278414, 42.79057461040881],
+    "code": "MNE"
+  },
+  {
+    "NAME_CHN": "梵蒂冈",
+    "NAME_ENG": "Vatican",
+    "center": [12.453298, 41.902784],
+    "code": "VAT"
+  },
+  {
+    "NAME_CHN": "阿尔巴尼亚",
+    "NAME_ENG": "Albania",
+    "center": [20.168331, 41.153332],
+    "code": "ALB"
+  },
+  {
+    "NAME_CHN": "希腊",
+    "NAME_ENG": "Greece",
+    "center": [21.824312, 39.074208],
+    "code": "GRC"
+  },
+  {
+    "NAME_CHN": "直布罗陀",
+    "NAME_ENG": "Gibraltar",
+    "center": [-5.353815, 36.140876],
+    "code": "GIB"
+  },
+  {
+    "NAME_CHN": "马耳他",
+    "NAME_ENG": "Malta",
+    "center": [14.31, 35.54],
+    "code": "MLT"
+  },
+  {
+    "NAME_CHN": "西班牙",
+    "NAME_ENG": "Spain",
+    "center": [-3.74922, 40.46366700000001],
+    "code": "ESP"
+  },
+  {
+    "NAME_CHN": "葡萄牙",
+    "NAME_ENG": "Portugal",
+    "center": [-8.224454, 39.39987199999999],
+    "code": "PRT"
+  },
+  {
+    "NAME_CHN": "亚美尼亚",
+    "NAME_ENG": "Armenia",
+    "center": [45.038189, 40.069099],
+    "code": "ARM"
+  },
+  {
+    "NAME_CHN": "叙利亚",
+    "NAME_ENG": "Syria",
+    "center": [38.996815, 34.80207499999999],
+    "code": "SYR"
+  },
+  {
+    "NAME_CHN": "黎巴嫩",
+    "NAME_ENG": "Lebanon",
+    "center": [35.862285, 33.854721],
+    "code": "LBN"
+  },
+  {
+    "NAME_CHN": "伊拉克",
+    "NAME_ENG": "Iraq",
+    "center": [43.679291, 33.223191],
+    "code": "IRQ"
+  },
+  {
+    "NAME_CHN": "科威特",
+    "NAME_ENG": "Kuwait",
+    "center": [47.481766, 29.31166],
+    "code": "KWT"
+  },
+  {
+    "NAME_CHN": "马尔代夫",
+    "NAME_ENG": "Maldives",
+    "center": [73.28, 4],
+    "code": "MDV"
+  },
+  {
+    "NAME_CHN": "文莱",
+    "NAME_ENG": "Brunei",
+    "center": [114.727669, 4.535277],
+    "code": "BRN"
+  },
+  {
+    "NAME_CHN": "东帝汶",
+    "NAME_ENG": "Timor Leste",
+    "center": [125.727539, -8.874217],
+    "code": "TLS"
+  },
+  {
+    "NAME_CHN": "圣诞岛",
+    "NAME_ENG": "Christmas Island",
+    "code": "CXR",
+    "center": [105.632738, -10.488649]
+  },
+  {
+    "NAME_CHN": "法国",
+    "NAME_ENG": "France",
+    "code": "FRA",
+    "center": [2.321009438043575, 48.90532516050354]
+  },
+  {
+    "NAME_CHN": "约旦",
+    "NAME_ENG": "Jordan",
+    "center": [36.238414, 30.585164],
+    "code": "JOR"
+  },
+  {
+    "NAME_CHN": "巴林",
+    "NAME_ENG": "Bahrain",
+    "center": [50.3, 26.1],
+    "code": "BHR"
+  },
+  {
+    "NAME_CHN": "卡塔尔",
+    "NAME_ENG": "Qatar",
+    "center": [51.183884, 25.354826],
+    "code": "QAT"
+  },
+  {
+    "NAME_CHN": "格鲁吉亚",
+    "NAME_ENG": "Georgia",
+    "center": [-82.9000751, 32.1656221],
+    "code": "GEO"
+  },
+  {
+    "NAME_CHN": "以色列",
+    "NAME_ENG": "Israel",
+    "center": [34.851612, 31.046051],
+    "code": "ISR"
+  },
+  {
+    "NAME_CHN": "塞浦路斯",
+    "NAME_ENG": "Cyprus",
+    "center": [33.429859, 35.126413],
+    "code": "CYP"
+  },
+  {
+    "NAME_CHN": "伊朗",
+    "NAME_ENG": "Iran",
+    "center": [53.688046, 32.427908],
+    "code": "IRN"
+  },
+  {
+    "NAME_CHN": "孟加拉国",
+    "NAME_ENG": "Bangladesh",
+    "center": [90.356331, 23.684994],
+    "code": "BGD"
+  },
+  {
+    "NAME_CHN": "新加坡",
+    "NAME_ENG": "Singapore",
+    "center": [103.864154, 1.362735],
+    "code": "SGP"
+  },
+  {
+    "NAME_CHN": "乌兹别克斯坦",
+    "NAME_ENG": "Uzbekistan",
+    "center": [64.585262, 41.377491],
+    "code": "UZB"
+  },
+  {
+    "NAME_CHN": "英属印度洋领地",
+    "NAME_ENG": "British Indian Ocean Territory",
+    "center": [72.452623, -7.304313],
+    "code": "IOT"
+  },
+  {
+    "NAME_CHN": "柬埔寨",
+    "NAME_ENG": "Cambodia",
+    "center": [104.990963, 12.565679],
+    "code": "KHM"
+  },
+  {
+    "NAME_CHN": "泰国",
+    "NAME_ENG": "Thailand",
+    "center": [100.992541, 15.870032],
+    "code": "THA"
+  },
+  {
+    "NAME_CHN": "土耳其",
+    "NAME_ENG": "Turkey",
+    "center": [35.243322, 38.963745],
+    "code": "TUR"
+  },
+  {
+    "NAME_CHN": "阿曼",
+    "NAME_ENG": "Oman",
+    "center": [55.923255, 21.512583],
+    "code": "OMN"
+  },
+  {
+    "NAME_CHN": "斯里兰卡",
+    "NAME_ENG": "Sri Lanka",
+    "center": [80.77179699999999, 7.873053999999999],
+    "code": "LKA"
+  },
+  {
+    "NAME_CHN": "印度尼西亚",
+    "NAME_ENG": "Indonesia",
+    "center": [106.515414, -6.10304],
+    "code": "IDN"
+  },
+  {
+    "NAME_CHN": "马来西亚",
+    "NAME_ENG": "Malaysia",
+    "center": [101.975766, 4.210484],
+    "code": "MYS"
+  },
+  {
+    "NAME_CHN": "土库曼斯坦",
+    "NAME_ENG": "Turkmenistan",
+    "center": [59.556278, 38.969719],
+    "code": "TKM"
+  },
+  {
+    "NAME_CHN": "韩国",
+    "NAME_ENG": "South Korea",
+    "center": [127.766922, 35.907757],
+    "code": "KOR"
+  },
+  {
+    "NAME_CHN": "日本",
+    "NAME_ENG": "Japan",
+    "center": [138.252924, 36.204824],
+    "code": "JPN"
+  },
+  {
+    "NAME_CHN": "阿塞拜疆",
+    "NAME_ENG": "Azerbaijan",
+    "center": [47.576927, 40.143105],
+    "code": "AZE"
+  },
+  {
+    "NAME_CHN": "菲律宾",
+    "NAME_ENG": "Philippines",
+    "center": [121.774017, 12.879721],
+    "code": "PHL"
+  },
+  {
+    "NAME_CHN": "阿尔及利亚",
+    "NAME_ENG": "Algeria",
+    "center": [1.659626, 28.033886],
+    "code": "DZA"
+  },
+  {
+    "NAME_CHN": "突尼斯",
+    "NAME_ENG": "Tunisia",
+    "center": [9.537499, 33.886917],
+    "code": "TUN"
+  },
+  {
+    "NAME_CHN": "利比亚",
+    "NAME_ENG": "Libya",
+    "center": [17.228331, 26.3351],
+    "code": "LBY"
+  },
+  {
+    "NAME_CHN": "摩洛哥",
+    "NAME_ENG": "Morocco",
+    "center": [-7.092619999999999, 31.791702],
+    "code": "MAR"
+  },
+  {
+    "NAME_CHN": "埃及",
+    "NAME_ENG": "Egypt",
+    "center": [30.802498, 26.820553],
+    "code": "EGY"
+  },
+  {
+    "NAME_CHN": "马里",
+    "NAME_ENG": "Mali",
+    "center": [-3.996166, 17.570692],
+    "code": "MLI"
+  },
+  {
+    "NAME_CHN": "毛利塔尼亚",
+    "NAME_ENG": "Mauritania",
+    "center": [-10.940835, 21.00789],
+    "code": "MRT"
+  },
+  {
+    "NAME_CHN": "尼日尔",
+    "NAME_ENG": "Niger",
+    "center": [8.081666, 17.607789],
+    "code": "NER"
+  },
+  {
+    "NAME_CHN": "塞内加尔",
+    "NAME_ENG": "Senegal",
+    "center": [-14.452362, 14.497401],
+    "code": "SEN"
+  },
+  {
+    "NAME_CHN": "佛得角",
+    "NAME_ENG": "Cabo Verde",
+    "center": [-23.34, 15.02],
+    "code": "CPV"
+  },
+  {
+    "NAME_CHN": "埃塞俄比亚",
+    "NAME_ENG": "Ethiopia",
+    "center": [40.489673, 9.145000000000001],
+    "code": "ETH"
+  },
+  {
+    "NAME_CHN": "冈比亚",
+    "NAME_ENG": "Gambia",
+    "center": [-15.310139, 13.443182],
+    "code": "GMB"
+  },
+  {
+    "NAME_CHN": "布基纳法索",
+    "NAME_ENG": "Burkina Faso",
+    "center": [-1.561593, 12.238333],
+    "code": "BFA"
+  },
+  {
+    "NAME_CHN": "厄立特里亚",
+    "NAME_ENG": "Eritrea",
+    "center": [39.782334, 15.179384],
+    "code": "ERI"
+  },
+  {
+    "NAME_CHN": "几内亚比绍",
+    "NAME_ENG": "Guinea-Bissau",
+    "center": [-15.180413, 11.803749],
+    "code": "GNB"
+  },
+  {
+    "NAME_CHN": "吉布提",
+    "NAME_ENG": "Djibouti",
+    "center": [42.590275, 11.825138],
+    "code": "DJI"
+  },
+  {
+    "NAME_CHN": "几内亚",
+    "NAME_ENG": "Guinea",
+    "center": [-9.696645, 9.945587],
+    "code": "GIN"
+  },
+  {
+    "NAME_CHN": "乍得",
+    "NAME_ENG": "Chad",
+    "center": [18.732207, 15.454166],
+    "code": "TCD"
+  },
+  {
+    "NAME_CHN": "尼日利亚",
+    "NAME_ENG": "Nigeria",
+    "center": [8.675277, 9.081999],
+    "code": "NGA"
+  },
+  {
+    "NAME_CHN": "科特迪瓦",
+    "NAME_ENG": "Ivory Coast",
+    "center": [-5.378034917359486, 7.80736775436047],
+    "code": "CIV"
+  },
+  {
+    "NAME_CHN": "中非",
+    "NAME_ENG": "Central African Republic",
+    "center": [20.482687551392672, 6.576510315517837],
+    "code": "CAF"
+  },
+  {
+    "NAME_CHN": "加纳",
+    "NAME_ENG": "Ghana",
+    "center": [-1.023194, 7.946527],
+    "code": "GHA"
+  },
+  {
+    "NAME_CHN": "塞拉利昂",
+    "NAME_ENG": "Sierra Leone",
+    "center": [-11.779889, 8.460555],
+    "code": "SLE"
+  },
+  {
+    "NAME_CHN": "贝宁",
+    "NAME_ENG": "Benin",
+    "center": [2.315834, 9.30769],
+    "code": "BEN"
+  },
+  {
+    "NAME_CHN": "多哥",
+    "NAME_ENG": "Togo",
+    "center": [0.824782, 8.619543],
+    "code": "TGO"
+  },
+  {
+    "NAME_CHN": "利比里亚",
+    "NAME_ENG": "Liberia",
+    "center": [-9.429499000000002, 6.428055],
+    "code": "LBR"
+  },
+  {
+    "NAME_CHN": "乌干达",
+    "NAME_ENG": "Uganda",
+    "center": [32.290275, 1.373333],
+    "code": "UGA"
+  },
+  {
+    "NAME_CHN": "赤道几内亚",
+    "NAME_ENG": "Equatorial Guinea",
+    "center": [10.267895, 1.650801],
+    "code": "GNQ"
+  },
+  {
+    "NAME_CHN": "刚果(布)",
+    "NAME_ENG": "Republic of the Congo",
+    "center": [15.99866764209861, -0.2996622342036943],
+    "code": "COG"
+  },
+  {
+    "NAME_CHN": "圣多美和普林西比",
+    "NAME_ENG": "Sao Tome and Principe",
+    "center": [6.39, 0.1],
+    "code": "STP"
+  },
+  {
+    "NAME_CHN": "加蓬",
+    "NAME_ENG": "Gabon",
+    "center": [11.609444, -0.803689],
+    "code": "GAB"
+  },
+  {
+    "NAME_CHN": "索马里",
+    "NAME_ENG": "Somalia",
+    "center": [46.199616, 5.152149],
+    "code": "SOM"
+  },
+  {
+    "NAME_CHN": "卢旺达",
+    "NAME_ENG": "Rwanda",
+    "center": [29.873888, -1.940278],
+    "code": "RWA"
+  },
+  {
+    "NAME_CHN": "肯尼亚",
+    "NAME_ENG": "Kenya",
+    "center": [37.906193, -0.023559],
+    "code": "KEN"
+  },
+  {
+    "NAME_CHN": "刚果(金)",
+    "NAME_ENG": "Democratic Republic of the Congo",
+    "center": [21.758664, -4.038333],
+    "code": "COD"
+  },
+  {
+    "NAME_CHN": "布隆迪",
+    "NAME_ENG": "Burundi",
+    "center": [29.918886, -3.373056],
+    "code": "BDI"
+  },
+  {
+    "NAME_CHN": "坦桑尼亚",
+    "NAME_ENG": "Tanzania",
+    "center": [35.45, -6.08],
+    "code": "TZA"
+  },
+  {
+    "NAME_CHN": "安哥拉",
+    "NAME_ENG": "Angola",
+    "center": [17.873887, -11.202692],
+    "code": "AGO"
+  },
+  {
+    "NAME_CHN": "塞舌尔",
+    "NAME_ENG": "Seychelles",
+    "center": [55.458898, -4.626174],
+    "code": "SYC"
+  },
+  {
+    "NAME_CHN": "马约特",
+    "NAME_ENG": "Mayotte",
+    "center": [45.14, -12.48],
+    "code": "MYT"
+  },
+  {
+    "NAME_CHN": "赞比亚",
+    "NAME_ENG": "Zambia",
+    "center": [27.849332, -13.133897],
+    "code": "ZMB"
+  },
+  {
+    "NAME_CHN": "马达加斯加",
+    "NAME_ENG": "Madagascar",
+    "center": [46.869107, -18.766947],
+    "code": "MDG"
+  },
+  {
+    "NAME_CHN": "毛里求斯",
+    "NAME_ENG": "Mauritius",
+    "center": [57.630969, -20.094797],
+    "code": "MUS"
+  },
+  {
+    "NAME_CHN": "津巴布韦",
+    "NAME_ENG": "Zimbabwe",
+    "center": [29.154857, -19.015438],
+    "code": "ZWE"
+  },
+  {
+    "NAME_CHN": "留尼汪",
+    "NAME_ENG": "Reunion",
+    "center": [55.541521663415494, -21.1159035697834],
+    "code": "REU"
+  },
+  {
+    "NAME_CHN": "纳米比亚",
+    "NAME_ENG": "Namibia",
+    "center": [18.49041, -22.95764],
+    "code": "NAM"
+  },
+  {
+    "NAME_CHN": "博茨瓦纳",
+    "NAME_ENG": "Botswana",
+    "center": [24.684866, -22.328474],
+    "code": "BWA"
+  },
+  {
+    "NAME_CHN": "斯威士兰",
+    "NAME_ENG": "Eswatini",
+    "center": [31.465866, -26.522503],
+    "code": "SWZ"
+  },
+  {
+    "NAME_CHN": "莱索托",
+    "NAME_ENG": "Lesotho",
+    "center": [28.233608, -29.609988],
+    "code": "LSO"
+  },
+  {
+    "NAME_CHN": "南非",
+    "NAME_ENG": "South Africa",
+    "center": [22.937506, -30.559482],
+    "code": "ZAF"
+  },
+  {
+    "NAME_CHN": "圣赫勒拿",
+    "NAME_ENG": "Saint Helena",
+    "center": [-5.695662, -16.005947],
+    "code": "SHN"
+  },
+  {
+    "NAME_CHN": "科摩罗",
+    "NAME_ENG": "Comoros",
+    "center": [43.872219, -11.875001],
+    "code": "COM"
+  },
+  {
+    "NAME_CHN": "哈萨克斯坦",
+    "NAME_ENG": "Kazakhstan",
+    "center": [66.923684, 48.019573],
+    "code": "KAZ"
+  },
+  {
+    "NAME_CHN": "不丹",
+    "NAME_ENG": "Bhutan",
+    "center": [90.433601, 27.514162],
+    "code": "BTN"
+  },
+  {
+    "NAME_CHN": "阿联酋",
+    "NAME_ENG": "United Arab Emirates",
+    "center": [53.847818, 23.424076],
+    "code": "ARE"
+  },
+  {
+    "NAME_CHN": "乌克兰",
+    "NAME_ENG": "Ukraine",
+    "center": [31.16558, 48.379433],
+    "code": "UKR"
+  },
+  {
+    "NAME_CHN": "巴基斯坦",
+    "NAME_ENG": "Pakistan",
+    "center": [69.34511599999999, 30.375321],
+    "code": "PAK"
+  },
+  {
+    "NAME_CHN": "阿富汗",
+    "NAME_ENG": "Afghanistan",
+    "center": [67.709953, 33.93911],
+    "code": "AFG"
+  },
+  {
+    "NAME_CHN": "塔吉克斯坦",
+    "NAME_ENG": "Tajikistan",
+    "center": [71.276093, 38.861034],
+    "code": "TJK"
+  },
+  {
+    "NAME_CHN": "吉尔吉斯斯坦",
+    "NAME_ENG": "Kyrgyzstan",
+    "center": [74.766098, 41.20438],
+    "code": "KGZ"
+  },
+  {
+    "NAME_CHN": "蒙古",
+    "NAME_ENG": "Mongolia",
+    "center": [103.846656, 46.862496],
+    "code": "MNG"
+  },
+  {
+    "NAME_CHN": "越南",
+    "NAME_ENG": "Vietnam",
+    "center": [108.277199, 14.058324],
+    "code": "VNM"
+  },
+  {
+    "NAME_CHN": "老挝",
+    "NAME_ENG": "Laos",
+    "center": [102.495496, 19.85627],
+    "code": "LAO"
+  },
+  {
+    "NAME_CHN": "印度",
+    "NAME_ENG": "India",
+    "center": [78.96288, 20.593684],
+    "code": "IND"
+  },
+  {
+    "NAME_CHN": "尼泊尔",
+    "NAME_ENG": "Nepal",
+    "center": [84.12400799999999, 28.394857],
+    "code": "NPL"
+  },
+  {
+    "NAME_CHN": "俄罗斯联邦",
+    "NAME_ENG": "Russia",
+    "center": [96.6719641571928, 61.9950216914894],
+    "code": "RUS"
+  },
+  {
+    "NAME_CHN": "缅甸",
+    "NAME_ENG": "Myanmar",
+    "center": [95.956223, 21.913965],
+    "code": "MMR"
+  },
+  {
+    "NAME_CHN": "朝鲜",
+    "NAME_ENG": "North Korea",
+    "center": [126.84884056251002, 40.34935215280976],
+    "code": "PRK"
+  },
+  {
+    "NAME_CHN": "苏丹",
+    "NAME_ENG": "Sudan",
+    "center": [30.217636, 12.862807],
+    "code": "SDN"
+  },
+  {
+    "NAME_CHN": "南苏丹",
+    "NAME_ENG": "South Sudan",
+    "center": [31.3069788, 6.876991899999999],
+    "code": "SSD"
+  },
+  {
+    "NAME_CHN": "莫桑比克",
+    "NAME_ENG": "Mozambique",
+    "center": [35.529562, -18.665695],
+    "code": "MOZ"
+  },
+  {
+    "NAME_CHN": "马拉维",
+    "NAME_ENG": "Malawi",
+    "center": [34.301525, -13.254308],
+    "code": "MWI"
+  },
+  {
+    "NAME_CHN": "苏里南",
+    "NAME_ENG": "Suriname",
+    "center": [-56.027783, 3.919305],
+    "code": "SUR"
+  },
+  {
+    "NAME_CHN": "巴拿马",
+    "NAME_ENG": "Panama",
+    "center": [-80.782127, 8.537981],
+    "code": "PAN"
+  },
+  {
+    "NAME_CHN": "喀麦隆",
+    "NAME_ENG": "Cameroon",
+    "center": [12.354722, 7.369721999999999],
+    "code": "CMR"
+  },
+  {
+    "NAME_CHN": "乌拉圭",
+    "NAME_ENG": "Uruguay",
+    "center": [-55.765835, -32.522779],
+    "code": "URY"
+  },
+  {
+    "NAME_CHN": "也门",
+    "NAME_ENG": "Yemen",
+    "center": [48.516388, 15.552727],
+    "code": "YEM"
+  },
+  {
+    "NAME_CHN": "沙特阿拉伯",
+    "NAME_ENG": "Saudi Arabia",
+    "center": [45.079162, 23.885942],
+    "code": "SAU"
+  },
+  {
+    "NAME_CHN": "库拉索",
+    "NAME_ENG": "Curacao",
+    "code": "CUW",
+    "center": [-68.98121264406724, 12.180065561841602]
+  },
+  {
+    "NAME_CHN": "法属圭亚那",
+    "NAME_ENG": "French Guiana",
+    "center": [-53.125782, 3.933889],
+    "code": "GUF"
+  },
+  {
+    "NAME_CHN": "西撒哈拉",
+    "NAME_ENG": "Western Sahara",
+    "center": [-12.885834, 24.215527],
+    "code": "ESH"
+  },
+  {
+    "NAME_CHN": "中国-大陆",
+    "NAME_ENG": "China",
+    "code": "CHN",
+    "center": [107.13847552986205, 33.56035640326697]
+  },
+  {
+    "NAME_CHN": "巴勒斯坦",
+    "NAME_ENG": "Palestinian Territory",
+    "code": "PSE",
+    "center": [35.199978105908, 31.883487897657233]
+  },
+  {
+    "NAME_CHN": "科索沃",
+    "NAME_ENG": "Kosovo",
+    "code": "XKX",
+    "center": [20.95359889673466, 42.64301655609103]
+  },
+  {
+    "NAME_CHN": "圣马丁岛",
+    "NAME_ENG": "Sint Maarten",
+    "code": "SXM",
+    "center": [-63.05078644542439, 18.08866409877261]
+  },
+  {
+    "NAME_CHN": "圣巴泰勒米",
+    "NAME_ENG": "Saint Barthelemy",
+    "code": "BLM",
+    "center": [-62.856255916953685, 17.918821116417504]
+  },
+  {
+    "NAME_CHN": "泽西岛",
+    "NAME_ENG": "Jersey",
+    "code": "JEY",
+    "center": [-2.141991995303812, 49.21852093313808]
+  },
+  {
+    "NAME_CHN": "关岛",
+    "NAME_ENG": "Guam",
+    "code": "GUM",
+    "center": [144.77681134972283, 13.44382817633803]
+  },
+  {
+    "NAME_CHN": "奥兰群岛",
+    "NAME_ENG": "Aland Islands",
+    "code": "ALA",
+    "center": [19.939983352773368, 60.11449008966085]
+  },
+  {
+    "NAME_CHN": "南极洲",
+    "NAME_ENG": "Antarctica",
+    "code": "ATA",
+    "center": [80, -66.3339]
+  },
+  {
+    "NAME_CHN": "台湾",
+    "code": "TWN",
+    "center": [121.509062, 24.044332],
+    "NAME_ENG": "Taiwan"
+  },
+  {
+    "NAME_CHN": "香港",
+    "code": "HKG",
+    "center": [114.16382700401533, 22.28134244711768],
+    "NAME_ENG": "Hong Kong"
+  },
+  {
+    "NAME_CHN": "澳门",
+    "code": "MAC",
+    "center": [113.55966348288314, 22.150471477763077],
+    "NAME_ENG": "Macao"
+  }
+]

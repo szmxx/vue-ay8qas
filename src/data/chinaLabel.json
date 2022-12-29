@@ -1,0 +1,206 @@
+[
+  {
+    "NAME_CHN": "北京",
+    "center": [116.405285, 40.404989],
+    "NAME_ENG": "Beijing",
+    "code": "Beijing"
+  },
+  {
+    "NAME_CHN": "天津",
+    "center": [117.590182, 39.125596],
+    "NAME_ENG": "Tianjin",
+    "code": "Tianjin"
+  },
+  {
+    "NAME_CHN": "河北",
+    "center": [115.502461, 38.045474],
+    "NAME_ENG": "Hebei",
+    "code": "Hebei"
+  },
+  {
+    "NAME_CHN": "山西",
+    "center": [112.249248, 37.857014],
+    "NAME_ENG": "Shanxi",
+    "code": "Shanxi"
+  },
+  {
+    "NAME_CHN": "内蒙古",
+    "center": [110.670801, 41.018311],
+    "NAME_ENG": "Inner Mongolia",
+    "code": "Inner Mongolia"
+  },
+  {
+    "NAME_CHN": "辽宁",
+    "center": [123.429096, 41.396767],
+    "NAME_ENG": "Liaoning",
+    "code": "Liaoning"
+  },
+  {
+    "NAME_CHN": "吉林",
+    "center": [125.6245, 43.886841],
+    "NAME_ENG": "Jilin",
+    "code": "Jilin"
+  },
+  {
+    "NAME_CHN": "黑龙江",
+    "center": [127.242464, 46.756967],
+    "NAME_ENG": "Heilongjiang",
+    "code": "Heilongjiang"
+  },
+  {
+    "NAME_CHN": "上海",
+    "center": [121.672644, 31.231706],
+    "NAME_ENG": "Shanghai",
+    "code": "Shanghai"
+  },
+  {
+    "NAME_CHN": "江苏",
+    "center": [119.767413, 32.541544],
+    "NAME_ENG": "Jiangsu",
+    "code": "Jiangsu"
+  },
+  {
+    "NAME_CHN": "浙江",
+    "center": [120.153576, 29.287459],
+    "NAME_ENG": "Zhejiang",
+    "code": "Zhejiang"
+  },
+  {
+    "NAME_CHN": "安徽",
+    "center": [117.083042, 31.86119],
+    "NAME_ENG": "Anhui",
+    "code": "Anhui"
+  },
+  {
+    "NAME_CHN": "福建",
+    "center": [118.306239, 26.075302],
+    "NAME_ENG": "Fujian",
+    "code": "Fujian"
+  },
+  {
+    "NAME_CHN": "江西",
+    "center": [115.592151, 27.676493],
+    "NAME_ENG": "Jiangxi",
+    "code": "Jiangxi"
+  },
+  {
+    "NAME_CHN": "山东",
+    "center": [118.000923, 36.375807],
+    "NAME_ENG": "Shandong",
+    "code": "Shandong"
+  },
+  {
+    "NAME_CHN": "河南",
+    "center": [113.665412, 33.757975],
+    "NAME_ENG": "Henan",
+    "code": "Henan"
+  },
+  {
+    "NAME_CHN": "湖北",
+    "center": [112.598572, 30.984355],
+    "NAME_ENG": "Hubei",
+    "code": "Hubei"
+  },
+  {
+    "NAME_CHN": "湖南",
+    "center": [111.982279, 27.69409],
+    "NAME_ENG": "Hunan",
+    "code": "Hunan"
+  },
+  {
+    "NAME_CHN": "广东",
+    "center": [114.280637, 23.625178],
+    "NAME_ENG": "Guangdong",
+    "code": "Guangdong"
+  },
+  {
+    "NAME_CHN": "广西",
+    "center": [108.820004, 23.32402],
+    "NAME_ENG": "Guangxi",
+    "code": "Guangxi"
+  },
+  {
+    "NAME_CHN": "海南",
+    "center": [110.33119, 19.031971],
+    "NAME_ENG": "Hainan",
+    "code": "Hainan"
+  },
+  {
+    "NAME_CHN": "重庆",
+    "center": [107.504962, 29.533155],
+    "NAME_ENG": "Chongqing",
+    "code": "Chongqing"
+  },
+  {
+    "NAME_CHN": "四川",
+    "center": [103.065735, 30.659462],
+    "NAME_ENG": "Sichuan",
+    "code": "Sichuan"
+  },
+  {
+    "NAME_CHN": "贵州",
+    "center": [106.713478, 26.578343],
+    "NAME_ENG": "Guizhou",
+    "code": "Guizhou"
+  },
+  {
+    "NAME_CHN": "云南",
+    "center": [101.712251, 24.540609],
+    "NAME_ENG": "Yunnan",
+    "code": "Yunnan"
+  },
+  {
+    "NAME_CHN": "西藏",
+    "center": [90.132212, 30.660361],
+    "NAME_ENG": "Tibet",
+    "code": "Tibet"
+  },
+  {
+    "NAME_CHN": "陕西",
+    "center": [108.948024, 34.263161],
+    "NAME_ENG": "Shaanxi",
+    "code": "Shaanxi"
+  },
+  {
+    "NAME_CHN": "甘肃",
+    "center": [104.023557, 35.558039],
+    "NAME_ENG": "Gansu",
+    "code": "Gansu"
+  },
+  {
+    "NAME_CHN": "青海",
+    "center": [96.778916, 35.623178],
+    "NAME_ENG": "Qinghai",
+    "code": "Qinghai"
+  },
+  {
+    "NAME_CHN": "宁夏",
+    "center": [106.278179, 37.46637],
+    "NAME_ENG": "Ningxia",
+    "code": "Ningxia"
+  },
+  {
+    "NAME_CHN": "新疆",
+    "center": [85.617733, 40.792818],
+    "NAME_ENG": "Xinjiang",
+    "code": "Xinjiang"
+  },
+  {
+    "NAME_CHN": "台湾",
+    "center": [121.509062, 24.044332],
+    "NAME_ENG": "Taiwan",
+    "code": "Taiwan"
+  },
+  {
+    "NAME_CHN": "香港",
+    "center": [114.16382700401533, 22.28134244711768],
+    "NAME_ENG": "Hong Kong",
+    "code": "Hong Kong"
+  },
+  {
+    "NAME_CHN": "澳门",
+    "center": [113.55966348288314, 22.150471477763077],
+    "NAME_ENG": "Macao",
+    "code": "Macao"
+  }
+]
